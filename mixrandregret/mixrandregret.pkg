@@ -1,0 +1,7 @@
+D 'mixrandregret': Fitting mixed random regret minimization models Use mixrandregret With STATA 19
+D
+F mixrandregret.ado
+F mixrandregret.sthlp
+F mixrbeta.ado
+F mixrpred.ado
+F mixrrm_gf0.mata
